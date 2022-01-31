@@ -6,7 +6,7 @@ import Gallery from './Gallery';
 import About from './About';
 import Contact from './Contact';
 import Upload from './Upload';
-import{ BrowserRouter, Routes , Route } from 'react-router-dom';
+import{ Route } from 'react-router-dom';
 
 //Recent albums
 import audia4modern from './recent/audia4modern';
