@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-photography/static/css/main.835ca3c0.css",
-    "main.js": "/portfolio-photography/static/js/main.cda82dc8.js",
+    "main.css": "/portfolio-photography/static/css/main.904322ce.css",
+    "main.js": "/portfolio-photography/static/js/main.32c5832b.js",
     "static/js/787.e2a90f7c.chunk.js": "/portfolio-photography/static/js/787.e2a90f7c.chunk.js",
     "static/media/LogoNav.svg": "/portfolio-photography/static/media/LogoNav.c873329724683b5be2fcc01826ff2e9e.svg",
     "index.html": "/portfolio-photography/index.html",
-    "main.835ca3c0.css.map": "/portfolio-photography/static/css/main.835ca3c0.css.map",
-    "main.cda82dc8.js.map": "/portfolio-photography/static/js/main.cda82dc8.js.map",
+    "main.904322ce.css.map": "/portfolio-photography/static/css/main.904322ce.css.map",
+    "main.32c5832b.js.map": "/portfolio-photography/static/js/main.32c5832b.js.map",
     "787.e2a90f7c.chunk.js.map": "/portfolio-photography/static/js/787.e2a90f7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.835ca3c0.css",
-    "static/js/main.cda82dc8.js"
+    "static/css/main.904322ce.css",
+    "static/js/main.32c5832b.js"
   ]
 }
