@@ -15,24 +15,24 @@ return (
     <AppSidebar isOpen={isOpen} toggle={toggle} />
     <AppBar toggle={toggle} />
     <br/><br/><br/><br/>
-    <div class="container"><div class="content"><a href='#'><div class="content-overlay"></div>
-            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/DSC03091.jpg"/><div class="content-details fadeIn-bottom">
-              <h3 class="content-title">This is a title For This</h3></div></a></div></div>
-    <div class="container"><div class="content"><a href='#'><div class="content-overlay"></div>
-            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/IMG_2889-Edit-Edit-2.jpg"/><div class="content-details fadeIn-bottom">
-              <h3 class="content-title">This is a title</h3></div></a></div></div>
-    <div class="container"><div class="content"><a href='#'><div class="content-overlay"></div>
-            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/IMG_2424.jpg"/><div class="content-details fadeIn-bottom">
-              <h3 class="content-title">This is a title</h3></div></a></div></div>
-    <div class="container"><div class="content"><a href='#'><div class="content-overlay"></div>
-            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/DSC03091.jpg"/><div class="content-details fadeIn-bottom">
-              <h3 class="content-title">This is a title</h3></div></a></div></div>
-    <div class="container"><div class="content"><a href='#'><div class="content-overlay"></div>
-            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/DSC03462.png"/><div class="content-details fadeIn-bottom">
-              <h3 class="content-title">This is a title</h3></div></a></div></div>
-    <div class="container"><div class="content"><a href='recent/audia4modern'><div class="content-overlay"></div>
-            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/DSC03091.jpg"/><div class="content-details fadeIn-bottom">
-              <h3 class="content-title">This is a title</h3></div></a></div></div>  
+    <div class="container"><div class="content"><a href='#/recent/audib85db'><div class="content-overlay"></div>
+            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/B8.5DB1.jpg"/><div class="content-details fadeIn-bottom">
+              <h3 class="content-title">Audi B8.5 - DB</h3></div></a></div></div>
+    <div class="container"><div class="content"><a href='#/recent/audib85irvine'><div class="content-overlay"></div>
+            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/HomeImage2.jpg"/><div class="content-details fadeIn-bottom">
+              <h3 class="content-title">Audi B8.5 - Irvine</h3></div></a></div></div>
+    <div class="container"><div class="content"><a href='#/recent/audis4mt'><div class="content-overlay"></div>
+            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/HomeImage1.jpg"/><div class="content-details fadeIn-bottom">
+              <h3 class="content-title">Audi S4 - Mountain</h3></div></a></div></div>
+    <div class="container"><div class="content"><a href='#/recent/audis4drhs'><div class="content-overlay"></div>
+            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/S4DRHS1.jpg"/><div class="content-details fadeIn-bottom">
+              <h3 class="content-title">Audi S4 - DRHS</h3></div></a></div></div>
+    <div class="container"><div class="content"><a href='#/recent/audis4irvine'><div class="content-overlay"></div>
+            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/S4Irvine1.jpg"/><div class="content-details fadeIn-bottom">
+              <h3 class="content-title">Audi S4 - Irvine</h3></div></a></div></div>
+    <div class="container"><div class="content"><a href='#/recent/audia4drhs'><div class="content-overlay"></div>
+            <img class="content-image" src="https://web-photography-s3.s3.us-west-1.amazonaws.com/A4DRHS1.jpg"/><div class="content-details fadeIn-bottom">
+              <h3 class="content-title">Audi A4</h3></div></a></div></div>  
                                                                         
   </div>
 );

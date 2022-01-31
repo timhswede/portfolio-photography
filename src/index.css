@@ -129,6 +129,7 @@ body{
 .contact-details {
   display: inline-block;
   vertical-align: top;
+  width: 50vw;
 }
 
 .contact-details h1 {
@@ -155,7 +156,7 @@ body{
 }
 
 .form-input[type=text], select, textarea {
-  width: 50vw;
+  width: 40vw;
   padding: 12px;
   border: 1px solid #ccc;
   box-sizing: border-box;
@@ -165,7 +166,7 @@ body{
 }
 
 .form-input[type=email], select, textarea {
-  width: 50vw;
+  width: 40vw;
   padding: 12px;
   border: 1px solid #ccc;
   box-sizing: border-box;

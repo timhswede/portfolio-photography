@@ -6,9 +6,9 @@ const Application = () => {
       <>
         <div>
           <ImageSlider images={[
-            'https://web-photography-s3.s3.us-west-1.amazonaws.com/IMG_2424.jpg',
-            'https://web-photography-s3.s3.us-west-1.amazonaws.com/DSC03091.jpg', 
-            'https://web-photography-s3.s3.us-west-1.amazonaws.com/DSC03462.png', 
+            'https://web-photography-s3.s3.us-west-1.amazonaws.com/HomeImage1.jpg',
+            'https://web-photography-s3.s3.us-west-1.amazonaws.com/HomeImage2.jpg', 
+            'https://web-photography-s3.s3.us-west-1.amazonaws.com/HomeImage3.jpg', 
           ]}>
             <div
               style={{

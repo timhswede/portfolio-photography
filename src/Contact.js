@@ -16,7 +16,7 @@ return (
   <div className="Contact">
     <AppSidebar isOpen={isOpen} toggle={toggle} />
     <AppBar toggle={toggle} />
-    <br/><br/><br/><br/>
+    <br/><br/><br/><br/><br/><br/><br/><br/>
 
     <ContactForm />  
   </div>

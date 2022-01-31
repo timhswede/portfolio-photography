@@ -6,24 +6,22 @@ import AboutFlexBox from './comps/AboutFlexBox';
 
 const Img1 = styled('img')({    
   position: 'relative',
-
   objectFit: 'cover',
   objectPosition: 'center',
-  paddingLeft: '4em',
+
   paddingRight: '1em',
-  height: '35vw',
-  width: '31vw'
+  height: '30vw',
+
 
 });
 const Img2 = styled('img')({
   position:'relative',
-
   objectFit: 'cover',
   objectPosition: 'center',
   paddingLeft: '1em',
-  marginRight: '4em',
-  height: '35vw',
-  width: '58vw'
+
+  height: '30vw',
+  width: '65vw',
 
 });
 
@@ -42,8 +40,8 @@ return (
     <AppBar toggle={toggle} />
     <AboutFlexBox/>
     <br/><br/><br/>
-      <Img1 className={classes.img} src={ 'https://web-photography-s3.s3.us-west-1.amazonaws.com/IMG_1634.jpg' } />
-      <Img2 className={classes.img} src={ 'https://web-photography-s3.s3.us-west-1.amazonaws.com/DSC06287-Pano.jpg' } />
+      <Img1 className={classes.img} src={ 'https://web-photography-s3.s3.us-west-1.amazonaws.com/AboutImage1.jpg' } />
+      <Img2 className={classes.img} src={ 'https://web-photography-s3.s3.us-west-1.amazonaws.com/AboutImage2.jpg' } />
 
   </div>
   
