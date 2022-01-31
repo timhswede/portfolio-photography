@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Upload } from "@aws-sdk/lib-storage";
-import { S3Client, S3 } from "@aws-sdk/client-s3";
+import { S3Client } from "@aws-sdk/client-s3";
 
 const UploadForm = () => {
   const [file, setFile] = useState();

@@ -1,6 +1,4 @@
-import { useState, useEffect } from 'react'
-import ReactDOM from 'react-dom';
-import $ from 'jquery';
+import { useState } from 'react'
 import AppBar from './comps/AppBar';
 import AppSidebar from './comps/AppSideBar';
 import ImageGallery from './comps/ImageGallery';

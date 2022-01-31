@@ -1,9 +1,8 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import { Upload } from "@aws-sdk/lib-storage";
-import { S3Client, S3 } from "@aws-sdk/client-s3";
+import { S3Client } from "@aws-sdk/client-s3";
 import AppBar from './comps/AppBar';
 import AppSidebar from './comps/AppSideBar';
-import UploadForum from './comps/UploadForum';
 
 const AWS = require('aws-sdk');
 

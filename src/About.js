@@ -1,6 +1,5 @@
-import { useState, useEffect } from 'react'
-import { styled, makeStyles } from '@material-ui/core/styles';
-import ReactDOM from 'react-dom';
+import { useState } from 'react'
+import { styled } from '@material-ui/core/styles';
 import AppBar from './comps/AppBar';
 import AppSidebar from './comps/AppSideBar';
 import AboutFlexBox from './comps/AboutFlexBox';

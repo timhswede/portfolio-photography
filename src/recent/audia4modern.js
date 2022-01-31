@@ -1,7 +1,7 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import AppBar from '../comps/AppBar';
 import AppSidebar from '../comps/AppSideBar';
-import { styled, makeStyles } from '@mui/material/styles';
+import { styled } from '@mui/material/styles';
 
 const Img = styled('img')({
     objectFit: 'cover',

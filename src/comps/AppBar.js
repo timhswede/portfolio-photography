@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, NavLink, Bars, NavMenu, NavBtn, NavBtnLink } from './AppBarElements';
+import { Nav, NavLink, Bars, NavMenu } from './AppBarElements';
 import { default as logo } from '../images/LogoNav.svg';
 
 const Navbar = ({ toggle }) => {

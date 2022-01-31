@@ -1,6 +1,4 @@
-import { useState, useEffect } from 'react'
-import { Upload } from "@aws-sdk/lib-storage";
-import { S3Client, S3 } from "@aws-sdk/client-s3";
+import { useState } from 'react'
 import AppBar from './comps/AppBar';
 import AppSidebar from './comps/AppSideBar';
 import ImageSlider from './comps/ImageSlider.jsx';
