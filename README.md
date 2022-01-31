@@ -1,3 +1,7 @@
+# Visit Live Site
+
+https://timhswede.github.io/portfolio-photography/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
