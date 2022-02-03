@@ -1,4 +1,4 @@
-# Visit Live Site
+# Visit Deployed Page
 
 https://timhswede.github.io/portfolio-photography/
 
