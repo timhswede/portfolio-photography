@@ -18,7 +18,7 @@ function Home() {
     var file = e.target.files[0];
 
   const target = { Bucket:"web-photography-s3", Key:file.name, Body:file};
-  const creds = {accessKeyId: "AKIA5I7IZWJMU5BDYMKE	",secretAccessKey:"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"};
+  const creds = {accessKeyId: "",secretAccessKey:""};
   try {
     const parallelUploads3 = new Upload({
       client: new S3Client({region:"us-west-1",credentials:creds}),
